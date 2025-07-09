@@ -5,7 +5,7 @@
 
 
 # Features
-https://github.com/your-username/otp-login-react.git
+
 cd otp-login-react
 * Input box that takes a name 
 * Used Giphy Api to fetch Giphy images to wish birthdays
