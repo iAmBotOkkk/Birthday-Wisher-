@@ -1,12 +1,12 @@
 import './App.css'
-import { bdayWish } from './Components/birthdaywisher'
+import { BdayWish } from './Components/birthdaywisher'
 
 
 function App() {
 
   return(
     
-      <bdayWish/>
+      <BdayWish/>
   
   )
 }
