@@ -1,4 +1,4 @@
-## Birthday Wisher(React)
+# Birthday Wisher(React)
 
 * Created a Birthday wisher app using react.This project helped me in gaining knowledge more about 
   react,how api call is done using fetch.
